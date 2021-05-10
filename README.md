@@ -29,5 +29,3 @@ In general, we found that customers are more likely to cancel a booking when the
     + Complementary
     + Aviation
 + Are classified as a group customer type.
-
-These statistics can be useful for marketing towards customers, to increase booking retention, or they can be used to help a company focus on areas of improvement.
