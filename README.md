@@ -10,7 +10,7 @@ We can gather that while booking cancelations are seemingly random, they can be 
 At the end of the project, we have a model witch can predict whether a booking will be canceled or not with an **accuracy of 87 %** in a dataset with a distribution of 37.04 % canceled bookings and 62.96 % retained bookings. These are significant results witch can be useful for marketing towards customers, to increase booking retention, or to help a company focus on areas of improvement.
 
 ## Model
-ROC_AUC: 0.85
+ROC_AUC: 0.85  
 Accuracy: 0.87
 
 ## Analysis
